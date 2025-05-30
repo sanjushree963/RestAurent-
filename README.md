@@ -45,4 +45,4 @@ Mail functionality enabled on the server (e.g., sendmail or SMTP)
 # 📌 Versioning
 Refer to changelog.txt for complete version history and updates to the design/template framework.
 
-file:///H:/RESTAURANT/index.html
+
