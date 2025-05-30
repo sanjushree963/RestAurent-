@@ -1,2 +1,1 @@
-# RestAurent-
-an online booking restAurant
+# restaurant
